@@ -1,6 +1,6 @@
 # CNN_forthe_CNM
 
-Repository for useful software from the paper: "Extracting the cold neutral medium from HI emission with deep learning: Implications for Galactic foregrounds at high latitude" by Claire E. Murray, J.E.G. Peek and Chang-Goo Kim (2020 ApJ submitted)
+Repository for software from the paper: "Extracting the cold neutral medium from HI emission with deep learning: Implications for Galactic foregrounds at high latitude" by Claire E. Murray, J.E.G. Peek and Chang-Goo Kim (2020 ApJ submitted). All required data files are downloaded from remote dropbox into the data/ folder as part of the workflow. 
 
 The following dependencies are used to run the Jupyter Notebook (including latest tested versions):
 
@@ -13,3 +13,5 @@ The following dependencies are used to run the Jupyter Notebook (including lates
 * pickle
 * scipy 1.4.1
 * sklearn 0.19.1
+
+Data in other formats/projections available upon request (please contact @cmurray-astro).
