@@ -8,7 +8,7 @@ With this notebook you should be able to:
 - build and train a 1D CNN to predict f_CNM and R_HI from 21cm brightness temperature spectra (TB(v))
 - assess what the network is learning by computing the saliency for the output predictions
 - compare the input values with the network predictions
-- re-createe Figures 5, 7, 8, and 16
+- re-create Figures 6, 8, 9, and 14
 
 ### Software Dependencies
 
