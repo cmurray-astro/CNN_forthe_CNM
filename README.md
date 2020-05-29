@@ -24,4 +24,14 @@ The following dependencies are used to run the Jupyter Notebook (including lates
 * scipy 1.4.1
 * sklearn 0.19.1
 
+A conda environment can be created using the `env.yml` file:
+
+```
+conda env create -f env.yml
+conda activate cnn_cnm
+pip install -I git+https://github.com/raghakot/keras-vis.git
+```
+
+### Additional Data
+
 Data in other formats/projections available upon request (please contact @cmurray-astro).
