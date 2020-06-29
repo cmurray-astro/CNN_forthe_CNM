@@ -4,7 +4,7 @@ Repository for software from the paper: "Extracting the cold neutral medium from
 
 With this notebook you should be able to: 
 
-- access remote data, including training and test data, as well as observed catalog information and CNN maps [DOI TBD]
+- access remote data, including training and test data, as well as observed catalog information and CNN maps 
 - build and train a 1D CNN to predict f_CNM and R_HI from 21cm brightness temperature spectra (TB(v))
 - assess what the network is learning by computing the saliency for the output predictions
 - compare the input values with the network predictions
